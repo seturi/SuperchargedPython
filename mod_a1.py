@@ -1,0 +1,1 @@
+print('My name is %s.\n' % __name__)
