@@ -1,0 +1,8 @@
+PRINTS 'Enter side 1: '
+INPUT side1
+PRINTS 'Enter side 2: '
+INPUT side2
+total side1 side1 * side2 side2 * + =
+hyp total 0.5 ^ =
+PRINTS 'Hypotenuse equals '
+PRINTVAR hyp
