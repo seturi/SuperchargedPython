@@ -1,0 +1,14 @@
+n 1 50 ! =
+PRINTS 'Enter your guess: '
+INPUT ans
+ans n > 07 ?
+n ans > 09 ?
+PRINTS 'Congrats! You got it! '
+1 011 ?
+PRINTS 'Too high! Try agin. '
+1 01 ?
+PRINTS 'Too low! Try again. '
+1 01 ?
+PRINTS 'Play again? (1 = yes, 0 = no): '
+INPUT ans
+ans 00 ?

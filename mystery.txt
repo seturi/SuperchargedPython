@@ -1,0 +1,10 @@
+PRINTS 'Enter number of fibos to print: '
+INPUT n
+f1 0 =
+f2 1 =
+temp f2 =
+f2 f1 f2 + =
+f1 temp =
+PRINTVAR f2
+n n 1 - =
+n 0 > 4 ?
